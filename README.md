@@ -8,7 +8,7 @@
 - 👀 I’m interested in Data Vizualization, Predictive Modeling, Generative AI, Experimentation and the list goes on
 - 🌱 I’m currently learning the applications of generative AI in improving productivity at workplace by cutting out the tasks that can be easily automated
 - 💞️ I love to write, I try to publish an article once in a while
-- 
+  
 
  
 
